@@ -1,0 +1,38 @@
+{
+  "dialogues": {
+    "npc_boasvindas": "Olá! Dê uma olhada nos meus itens.",
+    "npc_semdinheiro": "Sinto muito, parece que não tem moedas suficientes.",
+    "npc_compra_cancelada": "Tudo bem, pense com calma.",
+    "npc_compra_sucesso": "Ótima escolha!"
+  },
+  "items": {
+    "SHOE_SNC": {
+      "name": "Sonic's Shoe",
+      "price": 75,
+      "stats": "+10 Velocidade",
+      "description": "Gotta go fast! Compraria só pela piada.",
+      "vendor_dialogue": "Esse? Encontrei-o numa colina verde. Cuidado, ele tem vontade própria."
+    },
+    "MSK_MJR": {
+      "name": "Majora's Mask",
+      "price": 250,
+      "stats": "???",
+      "description": "Sinto uma energia terrível vindo disto. Mas... eu quero.",
+      "vendor_dialogue": "Ah, uma das minhas favoritas. Traz um destino terrível, não é? O preço é alto por um motivo."
+    },
+    "HLM_MGM": {
+      "name": "Mega Man Helmet",
+      "price": 100,
+      "stats": "+5 Energia",
+      "description": "Será que isto me deixa disparar limões?...",
+      "vendor_dialogue": "Capacete do Blue Bomber! Perfeito para... bem, para lutar contra robôs."
+    },
+    "MSK_FRD": {
+      "name": "Freddy Mask",
+      "price": 20,
+      "stats": "+1 Susto",
+      "description": "Uma máscara... um pouco assustadora. Por que eu compraria isto?",
+      "vendor_dialogue": "Ah, essa? Chegou hoje. Dizem que dá azar... ou sorte! Baratinha!"
+    }
+  }
+}
